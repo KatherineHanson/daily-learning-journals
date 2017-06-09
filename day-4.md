@@ -1,0 +1,3 @@
+# My Learning Journal: Day 4
+*********************************************************************
+We continued exploring the nitty gritty of CSS/HTML and JavaScript, expanding the functionality of our About Me pages. I'm enjoying working on loops and functions using Javascript, and look forward to moving into implementing more JavaScript functionality on my website. We did pair programming for the first time, and it was an interesting experience. I have never heard the terms Driver and Navigator used as a way to describe the roles in pair programming, and they helped me to better conceptualize exactly how I should behave as one half of a pair programming team. 
