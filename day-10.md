@@ -1,0 +1,3 @@
+# My Learning Journal: Day 10
+*********************************************************************
+Yesterday we learned wire-framing and better implementation of DRY principles. Both are pretty crucial to polishing up my current skillset. I enjoyed the pair programming lab yesterday -- my partner Kyle and I ran into some trouble manipulating a couple elements to where we wanted them to go, but Hawa gave us some good advice to get around it. It also helped that we created a full wireframe for our project before we got started on it -- definitely gave us a better sense of direction than we would have had otherwise.
