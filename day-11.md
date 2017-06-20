@@ -1,0 +1,3 @@
+# My Learning Journal: Day 11
+*********************************************************************
+Today we discussed wire-framing further, as well as abstraction and how to build a click-tracker. I have worked with click-tracking as a Product Manager, but never actually coded it before, so it is interesting to learn how to actually implement it from the dev's perspective. The lab is challenging and I haven't finished it yet, but I can see the logic that I need to finish it. Just gotta code it fully, pull my hair over the inevitable bugs. I'm sure tomorrow's code discussion will be enlightening about what I can improve.
