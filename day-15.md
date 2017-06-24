@@ -14,4 +14,4 @@ we're organizing:
 - Meeting at a coffee shop tomorrow from at least 1-4.
   - Based on my time working on product development at a startup, I don't anticipate that time being enough for what we will need to do then, but plan to work later if need be and am seeing if the team members who cannot only make those hours are willing to stay later. Otherwise, we can maybe work separately later or come into Code Fellows early Monday morning, though being done asap is ideal.
 - Slack group.
-- A Trello board for keeping our non-code documentation organized.
+- Trello board for keeping our non-code documentation organized.
