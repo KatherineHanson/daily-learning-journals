@@ -10,3 +10,5 @@ Unfortunately, finalizing functionality for tile movement (or lack thereof) when
 - Scores page (html and JS): Kyle
 - Image-rendering: Zach (we had a little trouble with the images' container not allowing the user to select an individual image for event-listening/handling)
 - Settings (html and JS): Me
+
+We are excited about this idea and think/hope our audience will have fun with it.
