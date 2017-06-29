@@ -1,4 +1,4 @@
-# My Learning Journal: Day 17
+# My Learning Journal: Day 18
 *********************************************************************
 Yesterday, my team mostly finished our MVP.
 - Gaby: Timer counting down time user can play
